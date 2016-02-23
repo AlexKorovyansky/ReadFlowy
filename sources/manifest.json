@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "ReadFlowy",
+  "version": "0.1",
+  "description": "Smart and effective reading online and offline resources",
+  "icons": { 
+    "128": "icon_128.png"
+  },
+  "browser_action": {
+    "default_title": "ReadFlowy",
+    "default_icon": "browser_action_39.png",
+    "default_popup": "popup.html"
+  }
+}
